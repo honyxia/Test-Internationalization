@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Test-International
+
+  Created by hony on 2018/10/22.
+  Copyright © 2018年 hony. All rights reserved.
+*/
+
+
+"工作时长" = "work hours";
+"你已经工作了 %.1f 小时" = "You have been working for %.1f hours";
+"过了半小时" = "Half an hour passed";

@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "过了半小时"; ObjectID = "MJk-Y7-jXL"; */
+"MJk-Y7-jXL.normalTitle" = "Half an hour passed";
+
+/* Class = "UILabel"; text = "你已经工作了5小时"; ObjectID = "dLk-5u-xPE"; */
+"dLk-5u-xPE.text" = "You have been working for five hours";
+
+/* Class = "UILabel"; text = "工作时长"; ObjectID = "m31-Xi-Gp2"; */
+"m31-Xi-Gp2.text" = "work hours";
